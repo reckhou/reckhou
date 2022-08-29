@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **reckhou/reckhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reckhou&count_private=true&show_icons=true&line_height=24" alt="reckhou's github stats"/>
+</p>
